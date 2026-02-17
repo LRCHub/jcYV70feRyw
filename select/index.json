@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Sparkling",
+  "base_artist": "SUKISHA",
+  "createdAt": "2026-02-17T12:57:54.202522Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "We Were Sparkling",
+      "artist": "My Brightest Diamond",
+      "has_synced": true,
+      "path": "select/01_We_Were_Sparkling_My_Brightest_Diamond.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "We Were Sparkling (Haruki)",
+      "artist": "My Brightest Diamond",
+      "has_synced": false,
+      "path": "select/02_We_Were_Sparkling_(Haruki)_My_Brightest_Diamond.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sparkling Diamonds",
+      "artist": "Nicole Kidman, Jim Broadbent, Caroline O' Connor, Natalie Mendoza, and Lara Mulcahy",
+      "has_synced": true,
+      "path": "select/03_Sparkling_Diamonds_Nicole_Kidman,_Jim_Broadbent,_Caroline_O'_Connor,_Natalie_Mendoza,_and_Lara_Mulc.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sparkling Diamonds",
+      "artist": "Nicole Kidman, Jim Broadbent, Caroline O’Connor, Natalie Mendoza and Lara Mulcahy",
+      "has_synced": true,
+      "path": "select/04_Sparkling_Diamonds_Nicole_Kidman,_Jim_Broadbent,_Caroline_O’Connor,_Natalie_Mendoza_and_Lara_Mulcah.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sparkling in the Sand",
+      "artist": "Tower of Power",
+      "has_synced": false,
+      "path": "select/05_Sparkling_in_the_Sand_Tower_of_Power.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sparkling Sky Laser",
+      "artist": "Fear, and Loathing in Las Vegas",
+      "has_synced": true,
+      "path": "select/06_Sparkling_Sky_Laser_Fear,_and_Loathing_in_Las_Vegas.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sparkling Sky Laser",
+      "artist": "Fear, and Loathing in Las Vegas",
+      "has_synced": false,
+      "path": "select/07_Sparkling_Sky_Laser_Fear,_and_Loathing_in_Las_Vegas.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sparkling Day",
+      "artist": "Elvis Costello",
+      "has_synced": true,
+      "path": "select/08_Sparkling_Day_Elvis_Costello.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sparkling Diamonds",
+      "artist": "Nicole Kidman, Jim Broadbent, Caroline O'Connor, Natalie Mendoza & Lara Mulcahy",
+      "has_synced": true,
+      "path": "select/09_Sparkling_Diamonds_Nicole_Kidman,_Jim_Broadbent,_Caroline_O'Connor,_Natalie_Mendoza_&_Lara_Mulcahy.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sparkling In the Sand (Live)",
+      "artist": "Tower of Power",
+      "has_synced": false,
+      "path": "select/10_Sparkling_In_the_Sand_(Live)_Tower_of_Power.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Sparkling",
+      "artist": "CHUNG HA",
+      "has_synced": true,
+      "path": "select/11_Sparkling_CHUNG_HA.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Next SPARKLING!!",
+      "artist": "Aqours",
+      "has_synced": true,
+      "path": "select/12_Next_SPARKLING!!_Aqours.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sparkling Diamonds",
+      "artist": "Nicole Kidman feat. Jim Broadbent & Lara Mulcahy",
+      "has_synced": false,
+      "path": "select/13_Sparkling_Diamonds_Nicole_Kidman_feat._Jim_Broadbent_&_Lara_Mulcahy.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Sparkling Diamonds",
+      "artist": "Nicole Kidman",
+      "has_synced": false,
+      "path": "select/14_Sparkling_Diamonds_Nicole_Kidman.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Sparkling Diamonds",
+      "artist": "Nicole Kidman;Jim Broadbent;Caroline O'Connor;Natalie Mendoza;Lara Mulcahy",
+      "has_synced": true,
+      "path": "select/15_Sparkling_Diamonds_Nicole_Kidman;Jim_Broadbent;Caroline_O'Connor;Natalie_Mendoza;Lara_Mulcahy.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Next SPARKLING!!",
+      "artist": "Aqours",
+      "has_synced": true,
+      "path": "select/16_Next_SPARKLING!!_Aqours.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Sparkling Diamonds - Original Film Version",
+      "artist": "Nicole Kidman feat. Jim Broadbent & Lara Mulcahy",
+      "has_synced": true,
+      "path": "select/17_Sparkling_Diamonds_-_Original_Film_Version_Nicole_Kidman_feat._Jim_Broadbent_&_Lara_Mulcahy.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sparkling",
+      "artist": "SUKISHA",
+      "has_synced": false,
+      "path": "select/pl_01_Sparkling_SUKISHA.txt"
+    }
+  ]
+}
